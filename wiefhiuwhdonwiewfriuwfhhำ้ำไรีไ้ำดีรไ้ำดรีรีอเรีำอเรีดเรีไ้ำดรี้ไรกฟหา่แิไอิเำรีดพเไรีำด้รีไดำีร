@@ -5,40 +5,40 @@ return {
     "c31841cf-e6bf-4b8f-89e6-f374c2c3641d", -- never xxx18bang
     "E379C8B2-F13D-4F71-9164-E7D982882931", -- never Kirarija
     "D76F79B1-60F8-4BB4-9F74-A0D03D2C9CD5", -- 5 months expire 8 / 9 / 2025 youdontescapeHACK 
-    "DE41472F-366D-4517-A936-FA3BFC0D2ACA", -- 1 month expire at 8 / 5 / 2025 Lambo aka realbluekid
-    "0609EDC6-8E3B-4820-871C-F4BEB3F36353", -- 2 months expire at 9 / 6 / 2025 tutoniiii
-    "9906a525-af3c-4b15-87c6-a7346c034baf", -- 2 months expire at 10 / 6 / 2025 ungurded_nbaplayer
-    "53e04b14-1dc6-4474-8666-4e8cf03c54de", -- 1 month expire at 12 / 5 / 2025 INJIMA2992
-    "20a1fca7-70d4-4a12-b7d3-eaddad92100b", -- 1 month expire at 14 / 5 / 2025 be_yourselfoke
-    "fbd9bd27-7909-415c-9f6b-50491f7708ed", -- 1 year expire at 30 / 5 / 2026 Roman304010
-    "b409221a-fc25-47e7-a089-14f71397c3a1", -- 1 month expire at 21 / 5 / 2025 yt2222322
-    "DB017741-873F-441A-9DD7-E0B2A5B03153", -- 1 month expire at 21 / 5 / 2025 BIGMBK_6
-    "cc2f8151-d06a-4ef9-aa6a-5d35243ab4dc", -- 1 month expire at 25 / 5 / 2025 5staarliz
+    "DE41472F-366D-4517-A936-FA3BFC0D2ACA expired", -- 1 month expire at 8 / 5 / 2025 Lambo aka realbluekid
+    "0609EDC6-8E3B-4820-871C-F4BEB3F36353 expired", -- 2 months expire at 9 / 6 / 2025 tutoniiii
+    "9906a525-af3c-4b15-87c6-a7346c034baf expired", -- 2 months expire at 10 / 6 / 2025 ungurded_nbaplayer
+    "53e04b14-1dc6-4474-8666-4e8cf03c54de expired", -- 1 month expire at 12 / 5 / 2025 INJIMA2992
+    "20a1fca7-70d4-4a12-b7d3-eaddad92100b expired", -- 1 month expire at 14 / 5 / 2025 be_yourselfoke
+    "fbd9bd27-7909-415c-9f6b-50491f7708ed expired", -- 1 year expire at 30 / 5 / 2026 Roman304010
+    "b409221a-fc25-47e7-a089-14f71397c3a1 expired", -- 1 month expire at 21 / 5 / 2025 yt2222322
+    "DB017741-873F-441A-9DD7-E0B2A5B03153 expired", -- 1 month expire at 21 / 5 / 2025 BIGMBK_6
+    "cc2f8151-d06a-4ef9-aa6a-5d35243ab4dc expired", -- 1 month expire at 25 / 5 / 2025 5staarliz
     "444ed3a5-be76-448b-9fb6-773fde269cd2", -- never THE END
-    "ce4f439a-545b-47db-9b74-f38d3683511d", -- 1 month expire at 27 / 5 / 2025 fluxusHR
-    "26BC0629-C9DF-4F00-94A5-4063F91F14FF", -- 1 month expire at 27 / 5 / 2025 maximlebg09
+    "ce4f439a-545b-47db-9b74-f38d3683511d expired", -- 1 month expire at 27 / 5 / 2025 fluxusHR
+    "26BC0629-C9DF-4F00-94A5-4063F91F14FF expired", -- 1 month expire at 27 / 5 / 2025 maximlebg09
     "4838dc68-c38e-4c1e-b5cd-990cfb03142f", -- never SUPER_RODRIGO90
     "0c2d352b-ecb1-403c-bef7-08dc051ec5d7", -- never zori
-    "f97abefb-dc11-429f-962b-0de30a1d3a63", -- 1 month expire at 1 / 6 / 2025 maximitoelloco
+    "f97abefb-dc11-429f-962b-0de30a1d3a63 expired", -- 1 month expire at 1 / 6 / 2025 maximitoelloco
     "DECE137B-7344-42E0-B553-520ACE3107DE", -- 5 month expire at 2 / 10 / 2025 avengefulsins (MAYBE INCREASE)
-    "F586882A-B671-4FC7-93D8-1A5F10ECB2B8", -- 1 month expire at 3 / 6 / 2025 rhendm4
+    "F586882A-B671-4FC7-93D8-1A5F10ECB2B8 expired", -- 1 month expire at 3 / 6 / 2025 rhendm4
     "792b6101-e248-4a9a-9d79-6ed736fa5626", "0c817f67-c91d-4573-8b14-18fcb6c25f16", -- 1 month expire at 3 / 6 / 2025 Jayden257938 Jay_yowsp4 Jayski904
     "8E6C9007-C446-4B6A-BC3A-6348C53F6B84", -- 6 month expire at 3 / 11 / 2025 Hubababaaa6
-    "23D25A2D-22A8-4BF5-9BB8-39F1FB2B77D1", -- 1 month expire at 7 / 6 / 2025 k60f
+    "23D25A2D-22A8-4BF5-9BB8-39F1FB2B77D1 expired", -- 1 month expire at 7 / 6 / 2025 k60f
     "09F118B2-E3E5-4480-95C4-D72A562393D8", -- 5 month expire at 7 / 10 / 2025 Malachithesavage09
-    "ebd7b936-2586-45df-acc3-49e0b2adbe49", -- 1 month expire at 9 / 6 / 2025 swanhtetm2021
-    "4a1f8997-1718-407e-b32f-105ad0f93ba6", -- 1 month expire at 9 / 6 / 2025 SheBeTurnt
-    "820A8B98-334A-4490-8CDF-9C977C050206", -- 1 month expire at 9 / 6 / 2025 werock2572
-    "17720519-db28-4c49-9e8b-5fd94f471b13", -- 2 month expire at 9 / 6 / 2025 jjetsone1
+    "ebd7b936-2586-45df-acc3-49e0b2adbe49 expired", -- 1 month expire at 9 / 6 / 2025 swanhtetm2021
+    "4a1f8997-1718-407e-b32f-105ad0f93ba6 expired", -- 1 month expire at 9 / 6 / 2025 SheBeTurnt
+    "820A8B98-334A-4490-8CDF-9C977C050206 expired", -- 1 month expire at 9 / 6 / 2025 werock2572
+    "17720519-db28-4c49-9e8b-5fd94f471b13 expired", -- 2 month expire at 9 / 6 / 2025 jjetsone1
     "ce747ab7-95a4-45a3-8ea6-403e4328470c", "5c53bdf5-c29f-45e2-88e2-25ffab5e185c", -- 1 month expire at 10 / 8 / 2025 Lmts_MlKASA
     "DFC61C9F-E382-4CD7-A8A8-353BFD954872", -- 5 month expire at 11 / 10 / 2025 BACONGAMIN3X
-    "10C4C25D-F7F4-4E2E-8156-663D7D7B2229", -- 1 month expire at 11 / 6 / 2025 Fhjr227
-    "48cd6529-6a43-4ab9-af48-ec98369cafc5", -- 5 days expire at 17 / 5 / 2025 u0sky0u
+    "10C4C25D-F7F4-4E2E-8156-663D7D7B2229 expired", -- 1 month expire at 11 / 6 / 2025 Fhjr227
+    "48cd6529-6a43-4ab9-af48-ec98369cafc5", -- never u0sky0u
     "D09A50D8-BE6D-4CC5-A45F-CF159B368E9E",  -- 2 month expire at 13 / 7 / 2025 2mankash
     "518D0CB8-77FA-4004-932B-CDB4868C15C7", -- 5 month expire at 12 / 10 / 2025 6rnse
     "6c6f7e8b-af47-4fbf-945a-6f930f739c7a", -- 5 month expire at 14 / 10 / 2025 lityourboyalvin123
-    "7c598bcf-cd5e-498f-be5a-946e5c7f7c02",  -- 1 month expire at 9 / 6 / 2025 Ibbey232
-    "43078209-CA27-40C3-A163-C4D4E31E395F", -- 1 month expire at 27 / 6 / 2025 lilxarkie
+    "7c598bcf-cd5e-498f-be5a-946e5c7f7c02 expired",  -- 1 month expire at 9 / 6 / 2025 Ibbey232
+    "43078209-CA27-40C3-A163-C4D4E31E395F expired", -- 1 month expire at 27 / 6 / 2025 lilxarkie
     "f91a50e0-4f45-4c95-b1a7-d14ea6b15cdd", "346faf9c-78a8-4983-a2f4-d4b654d6bd21", -- 3 month expire at 27 / 8 / 2025 LouislovesCheese
     "2feb8e2e-ffc4-44a5-83a2-b58c9848db66", -- 1 month expire at 4 / 7 / 2025 Dldjngers123
     "ce747ab7-95a4-45a3-8ea6-403e4328470c", -- 1 month expire at 4 / 7 / 2025 bestbrandedcompany
