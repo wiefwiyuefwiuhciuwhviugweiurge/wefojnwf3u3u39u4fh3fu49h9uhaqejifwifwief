@@ -9,7 +9,7 @@ return {
     "9906a525-af3c-4b15-87c6-a7346c034baf expired", -- 2 months expire at 10 / 6 / 2025 ungurded_nbaplayer
     "53e04b14-1dc6-4474-8666-4e8cf03c54de expired", -- 1 month expire at 12 / 5 / 2025 INJIMA2992
     "20a1fca7-70d4-4a12-b7d3-eaddad92100b expired", -- 1 month expire at 14 / 5 / 2025 be_yourselfoke
-    "fbd9bd27-7909-415c-9f6b-50491f7708ed expired", -- 1 year expire at 30 / 5 / 2026 Roman304010
+    "fbd9bd27-7909-415c-9f6b-50491f7708ed", -- 1 year expire at 30 / 5 / 2026 Roman304010
     "b409221a-fc25-47e7-a089-14f71397c3a1 expired", -- 1 month expire at 21 / 5 / 2025 yt2222322
     "DB017741-873F-441A-9DD7-E0B2A5B03153 expired", -- 1 month expire at 21 / 5 / 2025 BIGMBK_6
     "cc2f8151-d06a-4ef9-aa6a-5d35243ab4dc expired", -- 1 month expire at 25 / 5 / 2025 5staarliz
@@ -46,5 +46,4 @@ return {
     "c23e7e22-c95e-42c9-8170-b9a414b4f272", -- 1 month expire at 21.07.25 Jayden257938
     "a9467cde-92e6-4593-8ac8-def9b97d38f9", -- 5 month exprie at 13.10.25 Inisforinvincible
     "19e88465-573d-49c9-8697-a4b0767f8cf9", -- 5 month expire at 22.11.25 fluxusHR
-    "fbd9bd27-7909-415c-9f6b-50491f7708ed", -- 1 YEAR expire at 29.05.26 discord name:test001685
 }
