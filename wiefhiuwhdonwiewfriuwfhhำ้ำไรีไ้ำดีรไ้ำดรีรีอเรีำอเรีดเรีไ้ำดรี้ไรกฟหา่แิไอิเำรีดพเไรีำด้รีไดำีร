@@ -17,4 +17,5 @@ return {
     "831da916-5a3b-4a5a-91c7-b37b1be5d53f", -- 5 month expire at 29.03.26
     "26fd3d85-dc53-4a3e-95b3-8d0fd201f000", -- 5 month expire at 1.04.26
     "DB017741-873F-441A-9DD7-E0B2A5B03153", -- 1 month expire at 9.12.25
+    "7e13247c-7b5d-400a-9c87-ae4d05764e4d", -- 1 month expire at 11.12.25
 }
